@@ -28,3 +28,5 @@ O foco principal do bootcamp:
 ## **Projetos**
 
 ### [LAB-01: Sistema Bancário Simples com Python](./projects/LAB-01/README.md)
+
+### [LAB-02: Otimizando o Sistema Bancário com Funções Python](./projects/LAB-02/README.md)
