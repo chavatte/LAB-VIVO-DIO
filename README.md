@@ -36,3 +36,5 @@ O foco principal do bootcamp:
 ### [LAB-04: API Workout - Desenvolvida com Python, FastAPI e Docker](./projects/LAB-04/workoutapi/README.md)
 
 ### [LAB-05: Projeto TDD: Construindo uma API com FastAPI e Testes com Pytest](./projects/LAB-05/store-api/README.md)
+
+### [LAB-06: Natural ou Fake Natty?](./projects/LAB-06/README.md)
