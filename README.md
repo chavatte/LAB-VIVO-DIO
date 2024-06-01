@@ -38,3 +38,7 @@ O foco principal do bootcamp:
 ### [LAB-05: Projeto TDD: Construindo uma API com FastAPI e Testes com Pytest](./projects/LAB-05/store-api/README.md)
 
 ### [LAB-06: Natural ou Fake Natty?](./projects/LAB-06/README.md)
+
+## Certificado de conclusão
+
+ :mortar_board: [Python AI Backend Developer](https://www.dio.me/certificate/K4CBMZGY) 
